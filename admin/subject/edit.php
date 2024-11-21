@@ -36,7 +36,7 @@ $subject_data = getSubjectByCode($_GET['subject_code']);
      ?>
     
 
-    <!-- Edit Subject Form -->
+    
     <div class="card p-4 mb-5">
         <form method="POST">
             <!-- Subject Code (disabled) -->

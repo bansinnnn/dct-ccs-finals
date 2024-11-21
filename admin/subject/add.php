@@ -1,5 +1,5 @@
 <?php
-include '../../functions.php'; // Include the functions
+include '../../functions.php'; 
 include '../partials/header.php';
 
 $logoutPage = '../logout.php';

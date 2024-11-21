@@ -33,7 +33,7 @@ guardLogin();
 
             ?>
 
-            <!-- Server-Side Validation Messages should be placed here -->
+           
             <div class="card">
                 <div class="card-body">
                     <h1 class="h3 mb-4 fw-normal">Login</h1>

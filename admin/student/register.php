@@ -81,7 +81,7 @@ include '../partials/side-bar.php';
                                 <!-- Delete Button (Red) -->
                                 <a href="delete.php?student_id=<?= urlencode($student['student_id']) ?>" class="btn btn-danger btn-sm">Delete</a>
                                 
-                                <!-- Delete Button (Red) -->
+                              
                                 <a href="attach-subject.php?student_id=<?= urlencode($student['student_id']) ?>" class="btn btn-warning btn-sm">Attach Subject</a>
                             
                             </td>
